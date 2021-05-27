@@ -1,0 +1,42 @@
+.table {
+    border-collapse: collapse;
+    margin: 50px;
+}
+
+.table td,
+.table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table th {
+    background-color: #94d0cc;
+    color: #fff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+}
+
+.btn_delete {
+    background-color: #fb3640;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+    margin: 2px;
+}
+
+.btn_update {
+    background-color: #4aa96c;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+    margin: 2px;
+}

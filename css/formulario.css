@@ -1,0 +1,23 @@
+.formulario {
+    margin: 50px;
+}
+
+.item_form {
+    padding: 10px 0px 10px 0px;
+}
+
+.label {
+    margin-right: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button_save {
+    background-color: #2596be;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+}
